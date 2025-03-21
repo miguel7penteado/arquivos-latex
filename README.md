@@ -25,4 +25,6 @@ Você também pode usar a linha de comando/terminal para converter entre diferen
 Por exemplo:
 
 **dvips** -o [nome do arquivo].ps [nome do arquivo].dvi converterá [nome do arquivo].dvi em um arquivo PostScript chamado [nome do arquivo].ps
+
 **dvipdfm** [nome do arquivo].dvi converterá [nome do arquivo].dvi em um arquivo PDF chamado [nome do arquivo].pdf
+
