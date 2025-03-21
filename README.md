@@ -17,6 +17,7 @@ Na linha de comando ou terminal, navegue primeiro até o local onde seu arquivo 
 Os seguintes comandos podem ser usados:
 
 **latex** [nome do arquivo].tex irá compilar [nome do arquivo].tex e gerar o arquivo [nome do arquivo].dvi
+
 **pdflatex** [nome do arquivo].tex irá compilar [nome do arquivo].tex e gerar o arquivo [nome do arquivo].pdf
 
 
